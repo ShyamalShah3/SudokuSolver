@@ -1,5 +1,4 @@
 Shyamal Shah
-AI Lab 3
 Date: 11/27/2020
 
 /*This README assumes that you have installed java and set your path environment variables up so that they can run java commands*/
